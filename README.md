@@ -1,4 +1,9 @@
-### Hi there 👋
+## Jimmy Feng
+
+I am a Geography PhD Student and Course Instructor of Geovisualization and Geographic Information Science at the [University of Tennessee, Knoxville](https://utk.edu).
+
+[Check out my personal website](https://jimmyfeng.space)
+
 
 <!--
 **jimmy-feng/jimmy-feng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
