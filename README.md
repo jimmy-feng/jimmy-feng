@@ -1,8 +1,8 @@
 ## Jimmy Feng
 
-I am a Geography PhD Student and Lead Instructor of Geovisualization and Geographic Information Science at the [University of Tennessee, Knoxville](https://utk.edu), with anticipated graduation in Spring 2022.
+I am a Geography PhD Candidate at the [University of Tennessee, Knoxville](https://utk.edu), with anticipated graduation in Summer 2022.
 
-Check out my personal website via [Squarespace](https://jimmyfeng.space) or [GitHub](https://jimmy-feng.github.io/)
+Check out my personal website at [GitHub](https://jimmy-feng.github.io/)
 
 My proposed dissertation draws from existing theories and conceptual frameworks to develop a new theoretical framework for a contemporary Geography of Access that relates together different concepts of space, time, and access. Focus is additionally given to identify how different types of data can be used for research into understanding the different dimensions of access and their conceptual extensions; and also how the proposed framework can be implemented with various methods to examine people’s situations of access. A case study of food access will be used to apply these ideas in practice.
 
